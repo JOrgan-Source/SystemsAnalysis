@@ -1,0 +1,15 @@
+{
+  "courseName": "Systems Analysis, Design and Testing (SETU & NUIST)",
+  "lecturerName": "Dr. John Organ",
+  "courseId": "systems-analysis-design-and-testing-setu-nuist",
+  "unitCount": 8,
+  "includeSide": true,
+  "topicsPerUnit": 2,
+  "includeNotes": true,
+  "includeLabs": true,
+  "includeCalendar": false,
+  "includeEnrollment": false,
+  "includeGitignore": true,
+  "includeReadme": false,
+  "readmeDescription": ""
+}
